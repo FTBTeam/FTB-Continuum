@@ -1,0 +1,6 @@
+Modpack Version: FTB - Continuum v1.4.1
+Issue: Worlds crash unexpectedly, crash log points to Information Screens.
+Log: https://pastebin.com/hh4LrkmM
+Is It Repeatable?: Yes, it repeats itself, I'm unsure of how or why, but it's nothing that I've done. It happens when standing still or moving, not interacting with anything.
+Mod/s affected: The Log points at RFTools, IE and a few others.
+Known Fix: N/A
